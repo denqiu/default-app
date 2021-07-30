@@ -1,6 +1,8 @@
 # Note
 Learned how to deploy a React app to production.
 
+This uses the starter/base template created by `npx create-react-app default-app`. Thus the reason why this project is named "default-app".
+
 [Guide to deploy React app](https://www.pluralsight.com/guides/deploying-github-pages-with-create-react-app)
 
 # Getting Started with Create React App
