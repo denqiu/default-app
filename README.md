@@ -1,3 +1,8 @@
+# Note
+Learned how to deploy a React app to production.
+
+[Guide to deploy React app](https://www.pluralsight.com/guides/deploying-github-pages-with-create-react-app)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
